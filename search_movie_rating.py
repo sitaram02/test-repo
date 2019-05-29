@@ -2,7 +2,7 @@
 Script to fetch Rotten Tomatoes rating for a movie.
 sript usage:
 python search_movie_rating.py "<Movie name>".
-Example : python search_movie_rating.py "Aladdin"
+Example : python search_movie_rating.py "Shazam"
 
 """
 import requests
